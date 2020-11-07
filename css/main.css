@@ -7167,6 +7167,12 @@ body {
   font-family: 'Poppins', sans-serif;
   background: #F5F5F5; }
 
+#Capa_1 {
+  fill: indigo;
+  padding-bottom: .5rem;
+  height: 60px;
+  width: 50px; }
+
 .hero {
   height: 110vh;
   position: relative; }
