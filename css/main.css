@@ -11004,9 +11004,32 @@ body {
   min-height: 400px;
 }
 
-.showcase .overlay {
+.showcase__overlay {
   background: rgba(0, 0, 0, 0.7);
   min-height: 400px;
+}
+
+.plan {
+  margin-top: 10rem;
+}
+
+.plan__p {
+  color: #3A24AC;
+  font-size: 40px;
+}
+
+.plan__span {
+  font-size: 20px;
+}
+
+.plan__btn {
+  background-color: #231667;
+}
+
+.plan__btn a {
+  color: white;
+  font-size: 0.8rem;
+  text-decoration: none;
 }
 
 .color {
