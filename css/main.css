@@ -11040,9 +11040,27 @@ body {
   margin-top: 8rem;
 }
 
-.form__card {
-  width: 100%;
-  height: 100%;
+.form__card .form-control {
+  margin-top: 2rem;
+  background: #F5F5F5;
+}
+
+.form .messages {
+  height: 10rem;
+}
+
+.footer {
+  margin-top: 8rem;
+  background: black;
+}
+
+.footer .form-control {
+  background: #F5F5F5;
+}
+
+.footer .btn {
+  background: #FF6969;
+  color: white;
 }
 
 .color {
