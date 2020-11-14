@@ -11063,6 +11063,26 @@ body {
   color: white;
 }
 
+.footer .social-1 {
+  background: #3B5998;
+}
+
+.footer .social-2 {
+  background: #DB3A49;
+}
+
+.footer .social-3 {
+  background: #57ADEE;
+}
+
+.footer .social-4 {
+  background: #3A76A9;
+}
+
+.copyright {
+  background: black;
+}
+
 .color {
   color: #FF6969;
 }
